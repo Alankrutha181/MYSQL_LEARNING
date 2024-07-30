@@ -6,3 +6,5 @@ group by gender;
 select *
 FROM parks_and_recreation.employee_demographics
 ORDER BY gender,age DESC;
+
+without mentioning generally the order by sorting is done in ASC 
